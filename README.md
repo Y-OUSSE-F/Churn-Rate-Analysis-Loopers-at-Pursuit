@@ -8,7 +8,7 @@ This analysis focuses on understanding the phenomenon of "looping out" within th
 
 ## What is Pursuit?
 
-Pursuit is an NYC based non-profit dedicated to creating economic transformation where it is needed most. We help low-income New Yorkers from traditionally underrepresnted backgrounds in Tech land higher paying jobs by training them to become sftware engineers over the course of a 1 year fellowship. Our Fellows go onto join top companies such as Uber, Citi, Blackstone, JP Morgan Chase, and many more. To learn more about Pursuit, please visit our site at: www.pursuit.org
+Pursuit is an NYC based non-profit dedicated to creating economic transformation where it is needed most. We help low-income New Yorkers from traditionally underrepresnted backgrounds in Tech land higher paying jobs by training them to become software engineers over the course of a 1 year fellowship. Our Fellows go onto join top companies such as Uber, Citi, Blackstone, JP Morgan Chase, and many more. To learn more about Pursuit, please visit our site at: www.pursuit.org
 
 ## What is a "Looper"?
 
