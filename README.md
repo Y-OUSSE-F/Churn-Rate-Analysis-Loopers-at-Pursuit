@@ -26,7 +26,7 @@ Sensitive data and information have been hidden and are not available for public
 
 ## Contact
 
-For any queries, discussions, or contact, feel free to reach out to us at: yoyuyoyu.san@gmail.com
+For any queries, discussions, or contact, feel free to reach out to me at: youssef@pursuit.org
 
 ## Conclusion
 
