@@ -6,6 +6,10 @@ Welcome to the Pursuit Fellowship Churn Rate Analysis project! This repository c
 
 This analysis focuses on understanding the phenomenon of "looping out" within the Pursuit fellowship program. Looping out refers to the act of exiting the 1-year long fellowship program with the intention to return at a later date. While some individuals return to complete the program on their second or third attempt, others may choose not to re-enroll.
 
+## What is Pursuit?
+
+Pursuit is an NYC based non-profit dedicated to creating economic transformation where it is needed most. We help low-income New Yorkers from traditionally underrepresnted backgrounds in Tech land higher paying jobs by training them to become sftware engineers over the course of a 1 year fellowship. Our Fellows go onto join top companies such as Uber, Citi, Blackstone, JP Morgan Chase, and many more. To learn more about Pursuit, please visit our site at: www.pursuit.org
+
 ## What is a "Looper"?
 
 At Pursuit, a "looper" is defined as someone who exits the fellowship program at any point in time with the intention to return. This distinction is important as loopers are not marked as withdrawn upon separation. 
