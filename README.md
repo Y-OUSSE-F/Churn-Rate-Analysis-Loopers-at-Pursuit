@@ -1,6 +1,6 @@
 # Pursuit Fellowship Churn Rate Analysis
 
-Welcome to the Pursuit Fellowship Churn Rate Analysis project! This repository contains an altered public version of a deck presented internally during my work at Pursuit. **I have been given full permission to share this project on the condition of omitting my R markdown code snippets. While this project is meant to be a testament to my ability and work, my care for the integrity of Pursuit's data is primary, and hence any requests for the code cannot be shared. Thank you for your understanding.**
+**Disclaimer: I have been given full permission to share this project on the condition of omitting my R markdown code snippets. While this project is meant to be a testament to my ability and work, my care for the integrity of Pursuit's data is primary, and hence any requests for the code cannot be shared. Thank you for your understanding.**
 
 ## Introduction
 
@@ -26,11 +26,11 @@ The primary objectives of this analysis are:
 
 ## Disclaimer
 
-Sensitive data and information have been hidden and are not available for public viewing. Static datasets, source code, and original CSV files are not shared due to privacy concerns. However, a knitted R Markdown document of the project with a walkthrough of the work/thought processes has been provided.
+Sensitive data and information have been hidden and are not available for public viewing. Static datasets, source code, and original CSV files are not shared for data integrity.
 
 ## Contact
 
-For any queries, discussions, or contact, feel free to reach out to me at: youssef@pursuit.org
+For any queries, discussions, or contact, feel free to reach out to me at: youssef.em.agour@gmail.com
 
 ## Conclusion
 
