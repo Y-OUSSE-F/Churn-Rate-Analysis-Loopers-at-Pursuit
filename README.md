@@ -1,6 +1,6 @@
 # Pursuit Fellowship Churn Rate Analysis
 
-Welcome to the Pursuit Fellowship Churn Rate Analysis project! This repository contains an altered public version of a deck presented internally at Pursuit, which was then presented in front of executive management. 
+Welcome to the Pursuit Fellowship Churn Rate Analysis project! This repository contains an altered public version of a deck presented internally during my work at Pursuit. **I have been given full permission to share this project on the condition of omitting my R markdown code snippets. While this project is meant to be a testament to my ability and work, my care for the integrity of Pursuit's data is primary, and hence any requests for the code cannot be shared. Thank you for your understanding.**
 
 ## Introduction
 
